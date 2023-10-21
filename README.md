@@ -7,7 +7,7 @@ I am Pragalbh Vashishtha
 - 🔭 I’m currently working on **Image Segmentation for TEM micrographs**
 - 🌱 I’m currently learning **Active Learning**
 - 👯 I’m looking to collaborate on **Material Informatics**
-- 🤔 I’m looking for help with ** Reinforcement learning**
+- 🤔 I’m looking for help with **Reinforcement learning**
 - 💬 Ask me about my favourite Dinosaur 🦖
 - 📫 How to reach me: pragalbhv@gmail.com
 - 😄 Pronouns: he/they

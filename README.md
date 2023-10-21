@@ -2,8 +2,18 @@
 
 ![](https://github.com/Pragalbhv/Pragalbhv/blob/main/githubmain.gif)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pragalbhv)](https://github.com/anuraghazra/github-readme-stats)
-- 
+I am Pragalbh Vashishtha
+
+- 🔭 I’m currently working on **Image Segmentation for TEM micrographs**
+- 🌱 I’m currently learning **Active Learning**
+- 👯 I’m looking to collaborate on **Material Informatics**
+- 🤔 I’m looking for help with ** Reinforcement learning**
+- 💬 Ask me about my favourite Dinosaur 🦖
+- 📫 How to reach me: pragalbhv@gmail.com
+- 😄 Pronouns: he/they
+- ⚡ Fun fact: I was born with two teeth!
+
+
 
 <!--
 **Pragalbhv/Pragalbhv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

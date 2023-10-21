@@ -2,7 +2,7 @@
 
 ![](https://github.com/Pragalbhv/Pragalbhv/blob/main/githubmain.gif)
 
-- Welcome to Pragalbhv
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pragalbhv)](https://github.com/anuraghazra/github-readme-stats)
 - 
 
 <!--

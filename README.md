@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![]https://github.com/Pragalbhv/Pragalbhv/githubmain.gif
+![](https://github.com/Pragalbhv/Pragalbhv/githubmain.gif)
 
 - Welcome to Pragalbhv
 - 
